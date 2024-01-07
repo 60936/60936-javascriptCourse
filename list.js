@@ -27,40 +27,76 @@ else if (elementId === 'css01') {
 else if (elementId === 'css02') {
   window.open(href="videos/css 02-class,ID 25.12.2023_08.36.25_REC.mp4",'chat AI','resizable,height=300,width=500');
 }
-else if (elementId === 's3Tow') {
-  window.open(href="videos/s3Tow.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css03') {
+  window.open(href="videos/css 03-shoppingCart - Made with Clipchamp.mp4",'chat AI','resizable,height=300,width=500');
 }
-else if (elementId === 's4Resuscitation') {
-  window.open(href="videos/s4Resuscitation.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css04') {
+  window.open(href="videos/css 04-shoppingCart-products25.12.2023_15.01.39_REC.mp4",'chat AI','resizable,height=300,width=500');
 }
-else if (elementId === 's4WaterEAR') {
-  window.open(href="videos/s4WaterEAR.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css05') {
+  window.open(href="videos/css 05-shoppingCart-productsQty.mp4",'chat AI','resizable,height=300,width=500');
 }
-else if (elementId === 's5EmergencyCare') {
-  window.open(href="videos/s5EmergencyCare.html",'chat AI','resizable,height=300,width=500');
-}
-
-
-else if (elementId === 's6CardiovascularSys') {
-  window.open(href="videos/s6CardiovascularSys.html",'chat AI','resizable,height=300,width=500');
-}
-else if (elementId === 's6RespiratoryIntro') {
-  window.open(href="videos/s6RespiratorySys.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css06') {
+  window.open(href="videos/css 06-shoppingCart-mediaSizing.mp4",'chat AI','resizable,height=300,width=500');
 }
 
-else if (elementId === 's6Spinal') {
-  window.open(href="videos/s6Spinal.html",'chat AI','resizable,height=300,width=500');
+
+else if (elementId === 'css07') {
+  window.open(href="videos/css 07-shoppingCart-jsItems1 createDiv-25.12.2023_17.21.51_REC.mp4",'chat AI','resizable,height=300,width=500');
+}
+else if (elementId === 'css08') {
+  window.open(href="videos/css 08-shoppingCart-jsItems2 linking objects to Div-25.12.2023_17.27.39_REC.mp4",'chat AI','resizable,height=300,width=500');
+}
+
+else if (elementId === 'css09') {
+  window.open(href="videos/css 09-shoppingCart-jsItems3 targeting objects in Div-25.12.2023_17.34.40_REC.mp4",'chat AI','resizable,height=300,width=500');
 
 }
-else if (elementId === 's7Legal') {
-  window.open(href="videos/s7Legality.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css10') {
+  window.open(href="videos/css 10-shoppingCart-jsItem4 id class of Objects in Div-25.12.2023_17.41.44_REC.mp4",'chat AI','resizable,height=300,width=500');
 
 }
-else if (elementId === 's8Rescue') {
-  window.open(href="videos/s8Rescue.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'css11') {
+  window.open(href="videos/css 11-cursorPointer 26.12.2023_08.39.27_REC.mp4",'chat AI','resizable,height=300,width=500');
 }
-else if (elementId === 's8Resuscitation') {
-  window.open(href="videos/s8Resuscitation.html",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js01') {
+  window.open(href="videos/js 01-shoppingCart-qtyIncrDecrFunc1.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js02') {
+  window.open(href="videos/js 02-shoppingCart-basket 1-x.id.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js03') {
+  window.open(href="videos/js 03-shoppingCart-basket 2-x.id incrDecrFunc.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js04') {
+  window.open(href="videos/js 04-shoppingCart-basket 3-x.id noNegativeQty.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js05') {
+  window.open(href="videos/js 05-shoppingCart-basket 4-x.id BalanceUpdate.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js06') {
+  window.open(href="videos/js 06-shoppingCart-basket 5-x.id cartBalance.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js07') {
+  window.open(href="videos/js 07-shoppingCart-basket 6-x.id cartBalanceUpdate.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js08') {
+  window.open(href="videos/js 08-shoppingCart-localStorage1-26.12.2023_07.46.45_REC.mp4",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js0') {
+  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js0') {
+  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js0') {
+  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js0') {
+  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'js0') {
+  window.open(href="videos",'chat AI','resizable,height=300,width=500');
 }    
 
 
