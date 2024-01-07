@@ -83,20 +83,20 @@ else if (elementId === 'js07') {
 else if (elementId === 'js08') {
   window.open(href="videos/js 08-shoppingCart-localStorage1-26.12.2023_07.46.45_REC.mp4",'chat AI','resizable,height=300,width=500');
 }    
-else if (elementId === 'js0') {
-  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js09') {
+  window.open(href="videos/js 09-shoppingCart-localStorage2-updateCards26.12.2023_07.55.42_REC.mp4",'chat AI','resizable,height=300,width=500');
 }    
-else if (elementId === 'js0') {
-  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js10') {
+  window.open(href="videos/js 10-shoppingCart-localStorage3-updateCart with Products 26.12.2023_08.34.28_REC.mp4",'chat AI','resizable,height=300,width=500');
 }    
-else if (elementId === 'js0') {
-  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js11') {
+  window.open(href="videos/js 11-shoppingCart-localStorage4-removing0item from Basket 26.12.2023_08.42.47_REC.mp4",'chat AI','resizable,height=300,width=500');
 }    
-else if (elementId === 'js0') {
-  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js12') {
+  window.open(href="videos/js 12-shoppingCart-basket6-where to put update code.mp4",'chat AI','resizable,height=300,width=500');
 }    
-else if (elementId === 'js0') {
-  window.open(href="videos",'chat AI','resizable,height=300,width=500');
+else if (elementId === 'js13') {
+  window.open(href="videos/js 13-shoppingCart-CartPage1.mp4",'chat AI','resizable,height=300,width=500');
 }    
 
 
