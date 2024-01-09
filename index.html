@@ -11,6 +11,19 @@
     <h3 style="padding: 0px; font-family: arial;">javascript for shopping cart<br/></h3>
         <a>learning through videos &nbsp;&nbsp;</a>
         <div class="dropdown">
+          <button class="dropbtn" style="border-color:aliceblue;"onclick="dropdown()">about</button>
+          <div class="dropdown-content" id="myDropdown">
+            <!--input id="myInput" onkeyup="filterFunction()" placeholder="Search.." type="text" /-->
+            <a href="#" onclick="displayAnswer('mission')">mission-tonbo</a>
+            <a href="#" onclick="displayAnswer('vision')">vision-tonbo</a>
+            <a href="#" onclick="displayAnswer('values')">values-tonbo</a>
+            <a href="#" onclick="displayAnswer('contents')">contents</a>
+            <a href="#" onclick="displayAnswer('disclaimer')">disclaimer</a>
+          </div>
+        </div>
+  
+
+        <div class="dropdown">
           <button style="border-color:aliceblue;"onclick="dropdown1()">topics</button>
           <div class="dropdown-content" id="myDropdown1">
             <input id="myInput1" onkeyup="filterFunction()" placeholder="Search.." type="text" />
@@ -45,18 +58,7 @@
     <input id="text_a" type="text;" size="50px;" />
     <p id="answer"></p>
     <button class="dropbtn" style="background-color: red; color: white; border-color:aliceblue;" onclick="question()">Chat</button>
-    <div class="dropdown">
-        <button class="dropbtn" style="border-color:aliceblue;"onclick="dropdown()">about</button>
-        <div class="dropdown-content" id="myDropdown">
-          <!--input id="myInput" onkeyup="filterFunction()" placeholder="Search.." type="text" /-->
-          <a href="#" onclick="displayAnswer('mission')">mission-tonbo</a>
-          <a href="#" onclick="displayAnswer('vision')">vision-tonbo</a>
-          <a href="#" onclick="displayAnswer('values')">values-tonbo</a>
-          <a href="#" onclick="displayAnswer('contents')">contents</a>
-          <a href="#" onclick="displayAnswer('disclaimer')">disclaimer</a>
-        </div>
-      </div>
-    </div>
+       </div>
     
 
     
@@ -66,5 +68,5 @@
     <script src="list.js"></script>
     
 </body>
-<brand style="bottom: 10px; position: fixed; left: 120px;">2023 Designed by <button class="logo-button" style='background-color: green; color: white; border-color: antiquewhite; border-radius: 8px; font-weight: 20; font-size: 12px; padding-bottom: 2px;' onclick='hider'><a href="http://web.mckeen.sg" rel="noopener noreferrer" target="_blank" style='color: white; text-decoration: none;' >mckeen</a></button> a fintech company</brand> 
+<brand style="bottom: 10px; position: fixed; left: 120px;">2024 Designed by <button class="logo-button" style='background-color: green; color: white; border-color: antiquewhite; border-radius: 8px; font-weight: 20; font-size: 12px; padding-bottom: 2px;' onclick='hider'><a href="http://web.mckeen.sg" rel="noopener noreferrer" target="_blank" style='color: white; text-decoration: none;' >mckeen</a></button> a fintech company</brand> 
 </html>
