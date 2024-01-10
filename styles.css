@@ -1,3 +1,7 @@
+.body {
+  background-color: lightblue;
+  color: black;
+}
 
 .dropbtn {
   background-color: purple;
@@ -9,9 +13,10 @@
   margin-left: 16px;
 }
 
-.dropbtn:hover, .dropbtn:focus {
+.dropbtn:hover, 
+.dropbtn:focus {
   background-color: gray;
-}
+ }
 
 #myInput {
   box-sizing: border-box;
@@ -24,7 +29,7 @@
   border-bottom: 1px solid #ddd;
 }
 
-#myInput:focus {outline: 3px solid #ddd;}
+#myInput1:focus {outline: 3px solid #ddd;}
 
 .dropdown {
   position: relative;
@@ -48,11 +53,10 @@
   text-decoration: none;
   display: block;
 }
-
-.dropdown a:hover {background-color: #ddd;}
-
 .show {display: block;}
-.body {
-  background-color: lightblue;
-  color: black;
-}
+
+.dropdown a:hover {
+  background-color:grey;
+  color:white;
+ }
+.dropdown:hover .dropdown-content {display: block;}

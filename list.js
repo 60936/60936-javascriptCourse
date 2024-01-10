@@ -140,6 +140,24 @@ else if (elementId === 'node13') {
 else if (elementId === 'node14') {
   window.open(href="",'','resizable,height=300,width=500');
 }
+else if (elementId === 'node15') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node16') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node17') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node18') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node19') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node20') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
 
 
 
