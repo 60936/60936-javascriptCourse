@@ -98,7 +98,48 @@ else if (elementId === 'js12') {
 else if (elementId === 'js13') {
   window.open(href="videos/js 13-shoppingCart-CartPage1.mp4",'chat AI','resizable,height=300,width=500');
 }    
-
+else if (elementId === 'node01') {
+  window.open(href="https://youtu.be/wRrZyX8Sf9M",'require()','resizable,height=300,width=500');
+}
+else if (elementId === 'node02') {
+  window.open(href="https://youtu.be/CPVpLJepNkY",'invoide module function','resizable,height=300,width=500');
+}
+else if (elementId === 'node03') {
+  window.open(href="https://youtu.be/BvBKXEliIWA",'os module','resizable,height=300,width=500');
+}
+else if (elementId === 'node04') {
+  window.open(href="https://youtu.be/XXavqd7-kWI",'path module','resizable,height=300,width=500');
+}
+else if (elementId === 'node05') {
+  window.open(href="https://youtu.be/X7lBnTBCJBs",'file read write','resizable,height=300,width=500');
+}
+else if (elementId === 'node06') {
+  window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
+}
+else if (elementId === 'node07') {
+  window.open(href="https://youtu.be/dVM3B-kufUI",'readFile async','resizable,height=300,width=500');
+}
+else if (elementId === 'node08') {
+  window.open(href="https://youtu.be/MIynKxKOpv0",'async workings','resizable,height=300,width=500');
+}
+else if (elementId === 'node09') {
+  window.open(href="https://youtu.be/2t6l0KzF3fQ",'http server','resizable,height=300,width=500');
+}
+else if (elementId === 'node10') {
+  window.open(href="https://youtu.be/M-6myKNq5qY",'http pages','resizable,height=300,width=500');
+}
+else if (elementId === 'node11') {
+  window.open(href="https://youtu.be/ZaDsr7MxFgY",'npm and json','resizable,height=300,width=500');
+}
+else if (elementId === 'node12') {
+  window.open(href="https://youtu.be/meOBBrtT_EA",'npm dependencies','resizable,height=300,width=500');
+}
+else if (elementId === 'node13') {
+  window.open(href="https://youtu.be/0VG7aMoQIdU",'nodemon','resizable,height=300,width=500');
+}
+else if (elementId === 'node14') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
 
 
 
