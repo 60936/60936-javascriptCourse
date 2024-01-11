@@ -138,22 +138,22 @@ else if (elementId === 'node13') {
   window.open(href="https://youtu.be/0VG7aMoQIdU",'nodemon','resizable,height=300,width=500');
 }
 else if (elementId === 'node14') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/vuPggFuuqB0",'uninstall','resizable,height=300,width=500');
 }
 else if (elementId === 'node15') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/eamvG_NerIA",'eventLoop','resizable,height=300,width=500');
 }
 else if (elementId === 'node16') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/91zxFVTxcq8",'eventLoop','resizable,height=300,width=500');
 }
 else if (elementId === 'node17') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/Ydu_erLQhGQ",'timeOut','resizable,height=300,width=500');
 }
 else if (elementId === 'node18') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/D9w2U3FyH8g",'setInterval','resizable,height=300,width=500');
 }
 else if (elementId === 'node19') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/XF4_9y2W5yk",'server','resizable,height=300,width=500');
 }
 else if (elementId === 'node20') {
   window.open(href="",'','resizable,height=300,width=500');
