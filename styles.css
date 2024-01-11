@@ -1,6 +1,6 @@
 .body {
-  background-color: lightblue;
-  color: black;
+  background-color: rgb(39, 44, 42);
+  color: rgb(224, 220, 220);
 }
 
 .dropbtn {
@@ -15,7 +15,7 @@
 
 .dropbtn:hover, 
 .dropbtn:focus {
-  background-color: gray;
+  background-color: green;
  }
 
 #myInput {
