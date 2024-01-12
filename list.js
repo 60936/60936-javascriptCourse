@@ -165,10 +165,10 @@ else if (elementId === 'node22') {
   window.open(href="https://youtu.be/paVxxjMKqNo",'await','resizable,height=300,width=500');
 }
 else if (elementId === 'node23') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/5qInVVx9daY",'event','resizable,height=300,width=500');
 }
 else if (elementId === 'node24') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/qXk9bCbSEoE",'event','resizable,height=300,width=500');
 }
 else if (elementId === 'node25') {
   window.open(href="",'','resizable,height=300,width=500');
