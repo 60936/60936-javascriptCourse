@@ -177,7 +177,7 @@ else if (elementId === 'node26') {
   window.open(href="https://youtu.be/6-C-nyjnSqE",'event','resizable,height=300,width=500');
 }
 else if (elementId === 'node27') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/wz9GBdj4ltQ",'stream','resizable,height=300,width=500');
 }
 else if (elementId === 'node28') {
   window.open(href="",'','resizable,height=300,width=500');
