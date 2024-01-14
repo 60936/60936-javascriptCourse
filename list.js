@@ -186,10 +186,10 @@ else if (elementId === 'node29') {
   window.open(href="https://youtu.be/fNrWrb0w_T8",'server','resizable,height=300,width=500');
 }
 else if (elementId === 'node30') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/PPeboP-35Ws",'server','resizable,height=300,width=500');
 }
 else if (elementId === 'node31') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/kQDbyMEtPWY",'server','resizable,height=300,width=500');
 }
 else if (elementId === 'node32') {
   window.open(href="",'','resizable,height=300,width=500');
