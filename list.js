@@ -180,7 +180,7 @@ else if (elementId === 'node27') {
   window.open(href="https://youtu.be/wz9GBdj4ltQ",'stream','resizable,height=300,width=500');
 }
 else if (elementId === 'node28') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/5K-gOeQb-J8",'stream','resizable,height=300,width=500');
 }
 else if (elementId === 'node29') {
   window.open(href="",'','resizable,height=300,width=500');
