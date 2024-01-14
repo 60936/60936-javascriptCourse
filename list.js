@@ -198,7 +198,7 @@ else if (elementId === 'node33') {
   window.open(href="https://youtu.be/7CeTb4AW5tk",'http','resizable,height=300,width=500');
 }
 else if (elementId === 'node34') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/eG102G69Nqk",'readFile','resizable,height=300,width=500');
 }
 else if (elementId === 'node35') {
   window.open(href="",'','resizable,height=300,width=500');
