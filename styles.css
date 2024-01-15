@@ -55,10 +55,43 @@
 }
 .show {display: block;}
 
-.dropdown a:hover {
+/* .dropdown a:hover {
   background-color:grey;
   color:white;
- }
+ } */
 .dropdown:hover .dropdown-content {
   display: block;
+  
+}
+
+/* tooltip */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 160px;
+  color: yellow;
+  background-color: #0e0707;
+  text-align: center;
+  border-radius: 2px;
+  font-size: normal;
+    
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+  top: -250%;
+  left: 50%;
+  margin-left: -20px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+/* tooltip */
+
+button:hover {
+  cursor: pointer;
 }

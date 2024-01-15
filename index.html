@@ -25,7 +25,10 @@
   
 
         <div class="dropdown">
-          <button style="border-color:aliceblue; margin-left:10px;" hover="dropdown1()">topics</button>
+          <div class="tooltip">
+            <button style="border-color:aliceblue; margin-left:10px;" hover="dropdown1()">topics</button>
+            <span class="tooltiptext">type node0, 1, 2, 3 for targeted list</span>
+          </div>
           <div class="dropdown-content" id="myDropdown1">
             <input id="myInput1" onkeyup="filterFunction()" placeholder="Search.." type="text" />
             <a href="#" onclick="displayAnswer('css01')">css01-bootstrap / 1min</a>
