@@ -1,10 +1,10 @@
 /* When the user clicks on the button,
 toggle between hiding and showing the dropdown content */
-function dropdown() {
-  document.getElementById("myDropdown").classList.toggle("show");
-}
+// function dropdown() {
+//   document.getElementById("myDropdown").classList.toggle("show");
+// }
 
 
-function displayText(text) {
-  document.getElementById("myDropdown").innerHTML = text;
-}
+// function displayText(text) {
+//   document.getElementById("myDropdown").innerHTML = text;
+// }
