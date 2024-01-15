@@ -20,7 +20,7 @@
 
 
  /* dropdown */
-  
+
 
 #myInput1{
   box-sizing: border-box;
@@ -30,8 +30,11 @@
   font-size: 12px;
   padding: none;
   border: none;
-  border-bottom: 1px; 
-  
+  border-bottom: 1px solid black; 
+  color: red !important;
+}
+#myInput1::placeholder{
+  color: red;
 }
 
 #myInput1:focus {
@@ -66,7 +69,10 @@
 }
 
 /* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover 
+.dropdown-content {
+  display: block;
+}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
@@ -83,9 +89,9 @@
   background-color: darkslategray;
     } 
 
-/* .show{
+.show{
   display: block;
-} */
+}
 /* tooltip */
 .tooltip {
   position: relative;
