@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>javascript course</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="dropdown.css">
     <link rel="shortcut icon" href="/videos/favicon-FREE LOGO.png" type="image/x-icon">
     
 </head>
@@ -13,8 +14,7 @@
         <a>learning through videos &nbsp;&nbsp;</a>
         <div class="dropdown">
           <button class="dropbtn" style="border-color:aliceblue;" hover="dropdown()">about</button>
-          <div class="dropdown-content" id="myDropdown">
-           
+          <div class="dropdown-content">
             <a href="#" onclick="displayAnswer('mission')">mission-tonbo</a>
             <a href="#" onclick="displayAnswer('vision')">vision-tonbo</a>
             <a href="#" onclick="displayAnswer('values')">values-tonbo</a>
@@ -26,11 +26,11 @@
 
         <div class="dropdown">
           <div class="tooltip">
-            <button style="border-color:aliceblue; margin-left:10px;" hover="dropdown1()">topics</button>
+            <button class="dropbtn"  style="border-color:aliceblue; background-color:maroon; margin-left:10px;" hover="dropdown()">topics</button>
             <span class="tooltiptext">type node0, 1, 2, 3 for targeted list</span>
           </div>
-          <div class="dropdown-content" id="myDropdown1">
-            <input id="myInput1" onkeyup="filterFunction()" placeholder="Search.." type="text" />
+          <div class="dropdown-content" id="myDropdown">
+            <input id="myInput" onkeyup="filterFunction()" placeholder="Search.." type="text" />
             <a href="#" onclick="displayAnswer('css01')">css01-bootstrap / 1min</a>
             <a href="#" onclick="displayAnswer('css02')">css02-class, ID / 32s</a>
             <a href="#" onclick="displayAnswer('css03')">css03-navbar</a>
@@ -117,7 +117,6 @@
     
     <script src="chat.js"></script>
     <script src="script/dropdown.js"></script>
-    <script src="script/dropdown1.js"></script>
     <script src="list.js"></script>
     
 </body>
