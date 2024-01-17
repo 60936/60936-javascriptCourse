@@ -243,6 +243,33 @@ else if (elementId === 'node48') {
   window.open(href="https://youtu.be/II-5m4_HxRk",'api','resizable,height=300,width=500');
 }
 else if (elementId === 'node49') {
+  window.open(href="https://youtu.be/jWztlAoTJDk",'api','resizable,height=300,width=500');
+}
+else if (elementId === 'node50') {
+  window.open(href="https://youtu.be/oZZuKqIHo0Q",'api','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
+  window.open(href="",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node5') {
   window.open(href="",'','resizable,height=300,width=500');
 }
 
