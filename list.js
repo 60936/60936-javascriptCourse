@@ -1,20 +1,6 @@
 function displayAnswer(elementId) { //about button
-  if (elementId === 'values') {
-  alert(`
-  R-eliability, 
-  E-xemplary in codes, 
-  S-ervice to society, 
-  C-oncern for standards, 
-  U-nited in our mission, 
-  E-njoyment in what we do
-  .(KeengWatanabe)`);
-} else if (elementId === 'mission') {
-  alert(`to learn the steps to creating a shopping cart without all the theory`);
-}
-else if (elementId === 'vision') {
-  alert(`to be a leading guru of tech development and education`);
-}
-else if (elementId === 'contents') {
+
+if (elementId === 'contents') {
   window.open(href="/contents.html",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === 'disclaimer') {
@@ -99,19 +85,19 @@ else if (elementId === 'js13') {
   window.open(href="videos/js 13-shoppingCart-CartPage1.mp4",'chat AI','resizable,height=300,width=500');
 }    
 else if (elementId === 'node01') {
-  window.open(href="https://youtu.be/wRrZyX8Sf9M",'require()','resizable,height=300,width=500');
+  window.open(href="/videos/node01.mp4",'require()','resizable,height=300,width=500');
 }
 else if (elementId === 'node02') {
-  window.open(href="https://youtu.be/CPVpLJepNkY",'invoide module function','resizable,height=300,width=500');
+  window.open(href="/videos/node02.mp4",'invoide module function','resizable,height=300,width=500');
 }
 else if (elementId === 'node03') {
-  window.open(href="https://youtu.be/BvBKXEliIWA",'os module','resizable,height=300,width=500');
+  window.open(href="/videos/node03.mp4",'os module','resizable,height=300,width=500');
 }
 else if (elementId === 'node04') {
-  window.open(href="https://youtu.be/XXavqd7-kWI",'path module','resizable,height=300,width=500');
+  window.open(href="/videos/node04.mp4",'path module','resizable,height=300,width=500');
 }
 else if (elementId === 'node05') {
-  window.open(href="https://youtu.be/X7lBnTBCJBs",'file read write','resizable,height=300,width=500');
+  window.open(href="/videos/node05.mp4",'file read write','resizable,height=300,width=500');
 }
 else if (elementId === 'node06') {
   window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');

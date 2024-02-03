@@ -12,7 +12,14 @@
 <body  class="body">
     <h3 style="padding: 0px; font-family: arial;">javascript for shopping cart<br/></h3>
         
-
+    <?php 
+    // put at the top of each php page.
+    session_start();
+    if (!isset($_SESSION["Authenticated"]))
+    {
+      header("location: login.php");
+    }
+    ?>
 
         <div class="dropdown">
           <div class="tooltip">
@@ -120,9 +127,6 @@
         <div class="dropdown">
           <button class="dropbtn" style="border-color:aliceblue;" hover="dropdown()">about</button>
           <div class="dropdown-content">
-            <a href="#" onclick="displayAnswer('mission')">mission-tonbo</a>
-            <a href="#" onclick="displayAnswer('vision')">vision-tonbo</a>
-            <a href="#" onclick="displayAnswer('values')">values-tonbo</a>
             <a href="#" onclick="displayAnswer('contents')">contents</a>
             <a href="#" onclick="displayAnswer('disclaimer')">disclaimer</a>
           </div>
@@ -133,8 +137,15 @@
 
     <input id="text_a" type="text;" size="50px;" />
     <p id="answer"></p>
-    <button class="dropbtn" style="background-color: red; color: white; border-color:aliceblue;" onclick="question()">Chat</button>
-       </div>
+
+<div class="dropdown">
+<button class="dropbtn" style="background-color: red; color: white; border-color:aliceblue;" hover="dropdown1()" onclick="question()">Chat</button>
+<div class="dropdown-content" id="myDropdown1">
+<input id="myInput1" onkeyup="filterFunction1()" placeholder="Search.." type="text" />
+
+<a href="#" onclick="displayAnswer('node06')">node06-readFile</a>
+
+</div></div>
     
 
     
