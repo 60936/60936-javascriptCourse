@@ -155,6 +155,61 @@ else if (inputText.toLowerCase().indexOf("node49")>-1) {
 else if (inputText.toLowerCase().indexOf("node50")>-1) {
 	window.open(href="https://youtu.be/oZZuKqIHo0Q",'api','resizable,height=300,width=500');
 }
+else if (inputText.toLowerCase().indexOf("node51")>-1) {
+	window.open(href="https://youtu.be/MbIrI-5bReg",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node52")>-1) {
+	window.open(href="https://youtu.be/d62KCds8pYk",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node53")>-1) {
+	window.open(href="https://youtu.be/73jVAL8tNvQ",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node54")>-1) {
+	window.open(href="https://youtu.be/lbR0umqkkyg",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node55")>-1) {
+	window.open(href="https://youtu.be/OP9LdaK4Gnc",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node56")>-1) {
+	window.open(href="https://youtu.be/-63GHcVSuk0",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node57")>-1) {
+	window.open(href="https://youtu.be/Y3rFeOvd7OQ",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node58")>-1) {
+	window.open(href="https://youtu.be/3CfRAzSDyeU",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node59")>-1) {
+	window.open(href="https://youtu.be/gDyzJI9Zl6A",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node60")>-1) {
+	window.open(href="https://youtu.be/VQZY_tcX7gw",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node61")>-1) {
+	window.open(href="https://youtu.be/-JWPfpZQlm8",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node62")>-1) {
+	window.open(href="https://youtu.be/MjWTjynWb7Q",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node63")>-1) {
+	window.open(href="https://youtu.be/A1Y5bifY7dA",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node64")>-1) {
+	window.open(href="https://youtu.be/ULBotIoNM0A",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node65")>-1) {
+	window.open(href="https://youtu.be/HbS6wKv9hi0",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node66")>-1) {
+	window.open(href="https://youtu.be/ijSmgID_uCw",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node67")>-1) {
+	window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node68")>-1) {
+	window.open(href="",'','resizable,height=300,width=500');
+}
+
 
 
 
