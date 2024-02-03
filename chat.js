@@ -206,8 +206,11 @@ else if (inputText.toLowerCase().indexOf("node66")>-1) {
 else if (inputText.toLowerCase().indexOf("node67")>-1) {
 	window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
-else if (inputText.toLowerCase().indexOf("node68")>-1) {
-	window.open(href="",'','resizable,height=300,width=500');
+else if (inputText.toLowerCase().indexOf("structures")>-1) {
+	window.open(href="/videos/jwt-structures.mp4",'','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("routes")>-1) {
+	window.open(href="/videos/jwt-routes.mp4",'','resizable,height=300,width=500');
 }
 
 

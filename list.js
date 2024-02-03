@@ -286,7 +286,10 @@ else if (elementId === 'node67') {
   window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
 else if (elementId === 'node68') {
-  window.open(href="",'','resizable,height=300,width=500');
+  window.open(href="/videos/jwt-structures.mp4",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node69') {
+  window.open(href="/videos/jwt-routes.mp4",'','resizable,height=300,width=500');
 }
 
 
