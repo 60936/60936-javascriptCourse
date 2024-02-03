@@ -203,14 +203,17 @@ else if (inputText.toLowerCase().indexOf("node65")>-1) {
 else if (inputText.toLowerCase().indexOf("node66")>-1) {
 	window.open(href="https://youtu.be/ijSmgID_uCw",'api','resizable,height=300,width=500');
 }
-else if (inputText.toLowerCase().indexOf("node67")>-1) {
+else if (inputText.toLowerCase().indexOf("node67")>-1||inputText.toLowerCase().indexOf("controller")>-1) {
 	window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
-else if (inputText.toLowerCase().indexOf("structures")>-1) {
-	window.open(href="/videos/jwt-structures.mp4",'','resizable,height=300,width=500');
+else if (inputText.toLowerCase().indexOf("node68")>-1||inputText.toLowerCase().indexOf("structures")>-1) {
+	window.open(href="/videos/jwt-structures.mp4",'node68','resizable,height=300,width=500');
 }
-else if (inputText.toLowerCase().indexOf("routes")>-1) {
-	window.open(href="/videos/jwt-routes.mp4",'','resizable,height=300,width=500');
+else if (inputText.toLowerCase().indexOf("node69")>-1||inputText.toLowerCase().indexOf("routes")>-1) {
+	window.open(href="/videos/jwt-routes.mp4",'node69','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node70")>-1||inputText.toLowerCase().indexOf("error")>-1) {
+	window.open(href="/videos/Jwt-customError.mp4",'node70','resizable,height=300,width=500');
 }
 
 

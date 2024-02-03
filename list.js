@@ -288,10 +288,13 @@ else if (elementId === 'node67') {
 else if (elementId === 'node68') {
   window.open(href="/videos/jwt-structures.mp4",'','resizable,height=300,width=500');
 }
+
 else if (elementId === 'node69') {
   window.open(href="/videos/jwt-routes.mp4",'','resizable,height=300,width=500');
 }
-
+else if (elementId === 'node70') {
+  window.open(href="/videos/Jwt-customError.mp4",'','resizable,height=300,width=500');
+}
 
 
 }
