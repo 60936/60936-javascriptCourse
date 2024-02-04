@@ -313,6 +313,15 @@ else if (elementId === 'node75') {
 else if (elementId === 'node76') {
   window.open(href="https://drive.google.com/file/d/12vqKpF6-4_yxShOixAOvaw2gdTA1Bqap/view?usp=drive_link",'','resizable,height=300,width=500');
 }
+else if (elementId === 'node77') {
+  window.open(href="https://drive.google.com/file/d/1335tePzMY4Rj9FWz049GrPQ156l8kT-I/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node78') {
+  window.open(href="https://drive.google.com/file/d/135XFNi5B4zchXrJT_HMJjPkPH24wq2o7/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node79') {
+  window.open(href="https://drive.google.com/file/d/13GO9HE17UwebQSLK8J19cfrA8EYfr_xv/view?usp=drive_link",'','resizable,height=300,width=500');
+}
 
 
 }

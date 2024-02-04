@@ -233,6 +233,15 @@ else if (inputText.toLowerCase().indexOf("node75")>-1||inputText.toLowerCase().i
 else if (inputText.toLowerCase().indexOf("node76")>-1||inputText.toLowerCase().indexOf("auth")>-1&&inputText.toLowerCase().indexOf("token")>-1) {
 	window.open(href="https://drive.google.com/file/d/12vqKpF6-4_yxShOixAOvaw2gdTA1Bqap/view?usp=drive_link",'node76','resizable,height=300,width=500');
 }
+else if (inputText.toLowerCase().indexOf("node77")>-1||inputText.toLowerCase().indexOf("auth")>-1&&inputText.toLowerCase().indexOf("refactor")>-1) {
+	window.open(href="https://drive.google.com/file/d/1335tePzMY4Rj9FWz049GrPQ156l8kT-I/view?usp=drive_link",'node77','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node78")>-1||inputText.toLowerCase().indexOf("error")>-1&&inputText.toLowerCase().indexOf("refactor")>-1) {
+	window.open(href="https://drive.google.com/file/d/135XFNi5B4zchXrJT_HMJjPkPH24wq2o7/view?usp=drive_link",'node78','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node79")>-1||inputText.toLowerCase().indexOf("error status")>-1&&inputText.toLowerCase().indexOf("refactor")>-1) {
+	window.open(href="https://drive.google.com/file/d/13GO9HE17UwebQSLK8J19cfrA8EYfr_xv/view?usp=drive_link",'node79','resizable,height=300,width=500');
+}
 
 
 
