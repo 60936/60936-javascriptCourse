@@ -1,14 +1,33 @@
-function displayAnswer(elementId) { //about button
+function displayAnswer(elementId) { //postman button
 
 if (elementId === 'contents') {
   window.open(href="/contents.html",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === 'disclaimer') {
   alert(`This content is created for trainee and trained lifesaver's references only.  Context of saving methodology is subject to relevant skills, experiences and expertise interpretation, content here are by no means comprehensive enough to be used alone. The proper way to be an effective lifesaver is to undertake a course of training provided by a licensed trainer and certified by a recognised lifesaving authority. (chatbot developer)`);
-} //topics button
+}
+else if (elementId === 'what is postman') {
+  window.open(href="https://youtu.be/J1_ogbFNTVE?si=-ZJ95fy6a4UeI_Mm",'postman','resizable,height=300,width=500');
+}
+else if (elementId === 'global var') {
+  window.open(href="https://youtu.be/wrQoabrkITQ?si=tpL9PliaeFWh758M",'postman','resizable,height=300,width=500');
+}
+else if (elementId === 'query api') {
+  window.open(href="https://youtu.be/6VxpRhCGZz0?si=WoFVN_uMNryJ1dCF",'postman','resizable,height=300,width=500');
+}
+else if (elementId === 'mongodb schema') {
+  window.open(href="https://youtu.be/H8dcF_obbYs?si=I3fnfi7zmYdFRPLy",'postman','resizable,height=300,width=500');
+}
+else if (elementId === 'mongodb setup') {
+  window.open(href="https://youtu.be/sYim_NfIO_g?si=x2pJ_Kem-dRram4w",'postman','resizable,height=300,width=500');
+}
+
+
+
+
+//topics button
 else if (elementId === 'css01') {
   window.open(href="videos/css 01-bootstrapIcons.mp4",'chat AI','resizable,height=300,width=500');
-
 }
 else if (elementId === 'css02') {
   window.open(href="videos/css 02-class,ID 25.12.2023_08.36.25_REC.mp4",'chat AI','resizable,height=300,width=500');
