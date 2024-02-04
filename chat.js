@@ -207,19 +207,31 @@ else if (inputText.toLowerCase().indexOf("node67")>-1||inputText.toLowerCase().i
 	window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node68")>-1||inputText.toLowerCase().indexOf("structures")>-1) {
-	window.open(href="/videos/jwt-structures.mp4",'node68','resizable,height=300,width=500');
+	window.open(href="https://drive.google.com/file/d/11QVfzD5Q8SMcqXRSvLMcPoFHOE2AqUcs/view?usp=drive_link",'node68','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node69")>-1||inputText.toLowerCase().indexOf("routes")>-1) {
-	window.open(href="/videos/jwt-routes.mp4",'node69','resizable,height=300,width=500');
+	window.open(href="https://drive.google.com/file/d/11U9L0pDtYTXLZ4RBOQGtNdwOPmlQysqy/view?usp=drive_link",'node69','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node70")>-1||inputText.toLowerCase().indexOf("error")>-1) {
-	window.open(href="/videos/Jwt-customError.mp4",'node70','resizable,height=300,width=500');
+	window.open(href="https://drive.google.com/file/d/11eR9nla4bd-zEwnjiROO9B16vV0RzVpZ/view?usp=drive_link",'node70','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node71")>-1||inputText.toLowerCase().indexOf("token")>-1) {
-	window.open(href="/videos/jwt-tokens.mp4",'node70','resizable,height=300,width=500');
+	window.open(href="https://drive.google.com/file/d/12S5grAxT6Pl4uWMkeJlRdl_FsC3_Hq1T/view?usp=drive_link",'node70','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node72")>-1||inputText.toLowerCase().indexOf("code")>-1||inputText.toLowerCase().indexOf("flow")>-1) {
-	window.open(href="/videos/jwt-codeflow.mp4",'node70','resizable,height=300,width=500');
+	window.open(href="https://drive.google.com/file/d/12RzPV4MOvH2ZtoW-D7i-Dq9bsCI_yxmD/view?usp=drive_link",'node70','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node73")>-1||inputText.toLowerCase().indexOf("dependencies")>-1||inputText.toLowerCase().indexOf("json web token")>-1) {
+	window.open(href="https://drive.google.com/file/d/12_bn9qKhs0lujDAFfMc5dyrm-IbBDTAn/view?usp=drive_link",'node70','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node74")>-1||inputText.toLowerCase().indexOf("secrets")>-1) {
+	window.open(href="https://drive.google.com/file/d/12s9TVm8GzyPWMXPkf0wRcaxZ0O9d4Dk6/view?usp=drive_link",'node70','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node75")>-1||inputText.toLowerCase().indexOf("frontend")>-1&&inputText.toLowerCase().indexOf("token")>-1) {
+	window.open(href="https://drive.google.com/file/d/12thZbo7YaocJ-B5BXZwao4rCt86CSCwQ/view?usp=drive_link",'node75','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node76")>-1||inputText.toLowerCase().indexOf("auth")>-1&&inputText.toLowerCase().indexOf("token")>-1) {
+	window.open(href="https://drive.google.com/file/d/12vqKpF6-4_yxShOixAOvaw2gdTA1Bqap/view?usp=drive_link",'node76','resizable,height=300,width=500');
 }
 
 

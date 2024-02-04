@@ -286,20 +286,32 @@ else if (elementId === 'node67') {
   window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
 else if (elementId === 'node68') {
-  window.open(href="/videos/jwt-structures.mp4",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/11QVfzD5Q8SMcqXRSvLMcPoFHOE2AqUcs/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 
 else if (elementId === 'node69') {
-  window.open(href="/videos/jwt-routes.mp4",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/11U9L0pDtYTXLZ4RBOQGtNdwOPmlQysqy/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node70') {
-  window.open(href="/videos/Jwt-customError.mp4",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/11eR9nla4bd-zEwnjiROO9B16vV0RzVpZ/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node71') {
-  window.open(href="/videos/jwt-tokens.mp4",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/12S5grAxT6Pl4uWMkeJlRdl_FsC3_Hq1T/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node72') {
-  window.open(href="/videos/jwt-codeflow.mp4",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/12RzPV4MOvH2ZtoW-D7i-Dq9bsCI_yxmD/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node73') {
+  window.open(href="https://drive.google.com/file/d/12_bn9qKhs0lujDAFfMc5dyrm-IbBDTAn/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node74') {
+  window.open(href="https://drive.google.com/file/d/12s9TVm8GzyPWMXPkf0wRcaxZ0O9d4Dk6/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node75') {
+  window.open(href="https://drive.google.com/file/d/12thZbo7YaocJ-B5BXZwao4rCt86CSCwQ/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node76') {
+  window.open(href="https://drive.google.com/file/d/12vqKpF6-4_yxShOixAOvaw2gdTA1Bqap/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 
 
