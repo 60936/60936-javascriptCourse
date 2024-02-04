@@ -215,6 +215,12 @@ else if (inputText.toLowerCase().indexOf("node69")>-1||inputText.toLowerCase().i
 else if (inputText.toLowerCase().indexOf("node70")>-1||inputText.toLowerCase().indexOf("error")>-1) {
 	window.open(href="/videos/Jwt-customError.mp4",'node70','resizable,height=300,width=500');
 }
+else if (inputText.toLowerCase().indexOf("node71")>-1||inputText.toLowerCase().indexOf("token")>-1) {
+	window.open(href="/videos/jwt-tokens.mp4",'node70','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node72")>-1||inputText.toLowerCase().indexOf("code")>-1||inputText.toLowerCase().indexOf("flow")>-1) {
+	window.open(href="/videos/jwt-codeflow.mp4",'node70','resizable,height=300,width=500');
+}
 
 
 

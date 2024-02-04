@@ -295,6 +295,12 @@ else if (elementId === 'node69') {
 else if (elementId === 'node70') {
   window.open(href="/videos/Jwt-customError.mp4",'','resizable,height=300,width=500');
 }
+else if (elementId === 'node71') {
+  window.open(href="/videos/jwt-tokens.mp4",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node72') {
+  window.open(href="/videos/jwt-codeflow.mp4",'','resizable,height=300,width=500');
+}
 
 
 }
