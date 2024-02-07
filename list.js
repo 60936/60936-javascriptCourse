@@ -327,13 +327,19 @@ else if (elementId === 'node74') {
   window.open(href="https://drive.google.com/file/d/12s9TVm8GzyPWMXPkf0wRcaxZ0O9d4Dk6/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node75') {
-  window.open(href="https://drive.google.com/file/d/12thZbo7YaocJ-B5BXZwao4rCt86CSCwQ/view?usp=drive_link",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/14fB47G3U--Aj6u6dFq1Sc1RgBIRnbKVK/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node75a') {
+  window.open(href="https://drive.google.com/file/d/152_AIXuLnrzdCFErL8wzehb-wlzjf_Uj/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node75b') {
+  window.open(href="https://drive.google.com/file/d/15-vbxHHLKgnQQ7yQOyOFprQmlWrfHCek/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node76') {
-  window.open(href="https://drive.google.com/file/d/12vqKpF6-4_yxShOixAOvaw2gdTA1Bqap/view?usp=drive_link",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/14yypLX3FrxrXMX5V64XCNRdGOU7mobsV/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node77') {
-  window.open(href="https://drive.google.com/file/d/1335tePzMY4Rj9FWz049GrPQ156l8kT-I/view?usp=drive_link",'','resizable,height=300,width=500');
+  window.open(href="https://drive.google.com/file/d/14j9xg7K7-rM8aIsKjuiCZnwpPQ6Syl-S/view?usp=drive_link",'','resizable,height=300,width=500');
 }
 else if (elementId === 'node78') {
   window.open(href="https://drive.google.com/file/d/135XFNi5B4zchXrJT_HMJjPkPH24wq2o7/view?usp=drive_link",'','resizable,height=300,width=500');
