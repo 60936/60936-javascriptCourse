@@ -31,7 +31,7 @@ z-index: 1;
   background-color: rgb(99, 169, 209); 
     }  
 
-#myInput,#myInput1 {   
+#myInput,#myInput1,#myInput2 {   
   /* box-sizing: border-box;  */
   /* background-image: url('searchicon.png');  */
   /* background-position: 14px 12px;    */

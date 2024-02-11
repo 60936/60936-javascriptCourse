@@ -12,6 +12,7 @@
 <body  class="body">
     <h3 style="padding: 0px; font-family: arial;">Frontend > javascript for shopping cart<br/></h3>
     <h3 style="padding: 0px; font-family: arial;">Backend > node.js for jason web token<br/></h3>
+    <h3 style="padding: 0px; font-family: arial;">Database > MySQL from oracle<br/></h3>
         
     <?php 
     // put at the top of each php page.
@@ -43,7 +44,7 @@
         
         <br/><br/>
 
-    <input id="text_a" type="text;" size="50px;" />
+    <input id="text_a" type="text;" size="50px;" /><button type="submit" onclick="question()">search</button>
     <p id="answer"></p>
 
     <div class="dropdown">
@@ -172,11 +173,29 @@
 
 </div></div>
     
+<div class="dropdown">
+  <button class="dropbtn" style="background-color: rgba(0, 0, 255, 0.13); color: white; border-color:aliceblue;" hover="dropdown2()" onclick="question()">MySQL</button>
+  <div class="dropdown-content" id="myDropdown2">
+  <input id="myInput2" onkeyup="filterFunction2()" placeholder="Search.." type="text" />
+  
+  
+  <a href="#" onclick="displayAnswer('sql01')">sql01-installing</a>
+  <a href="#" onclick="displayAnswer('sql02')">sql02-W3 course</a>
+  <a href="#" onclick="displayAnswer('sql03')">sql03-workbench</a>
+  <a href="#" onclick="displayAnswer('sql04')">sql04-nodejs to connect</a>
+  <a href="#" onclick="displayAnswer('sql05')">sql05-Google Cloud hosting</a>
 
+  
+  
+  
+  
+  
+  </div></div>
     
     <script src="chat.js"></script>
     <script src="script/dropdown.js"></script>
     <script src="script/dropdown1.js"></script>
+    <script src="script/dropdown2.js"></script>
     <script src="list.js"></script>
     
 </body>

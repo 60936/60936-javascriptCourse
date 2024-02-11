@@ -249,6 +249,21 @@ else if (inputText.toLowerCase().indexOf("node79")>-1||inputText.toLowerCase().i
 	window.open(href="https://drive.google.com/file/d/13GO9HE17UwebQSLK8J19cfrA8EYfr_xv/view?usp=drive_link",'node79','resizable,height=300,width=500');
 }
 
+else if (inputText.toLowerCase().indexOf("install mysql")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("install")>-1) {
+	window.open(href="https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing",'','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("sql course")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("course")>-1) {
+	window.open(href="https://www.w3schools.com/mysql/mysql_sql.asp",'','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("workbench")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("workbench")>-1) {
+	window.open(href="https://youtu.be/X_umYKqKaF0?si=X1Nbu9stsInbtoJS",'','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("nodejs connection")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("nodejs")>-1) {
+	window.open(href="https://blogs.perficient.com/2023/08/03/how-to-connect-node-js-with-mysql-database/",'','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("google cloud hosting")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("hosting")>-1) {
+	window.open(href="https://cloud.google.com/mysql/mysql-hosting",'','resizable,height=300,width=500');
+}
 
 
 
