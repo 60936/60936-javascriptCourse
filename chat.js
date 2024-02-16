@@ -20,6 +20,9 @@ else if(inputText.toLowerCase().indexOf("pull repo")>-1&&inputText.toLowerCase()
 
 else if(inputText.toLowerCase().indexOf("push repo")>-1&&inputText.toLowerCase().indexOf("github")>-1&&inputText.toLowerCase().indexOf("eg")>-1){document.getElementById("answer").innerHTML=`git push https://github.com/KeengWatanabe/repo.git `;}
 
+else if (inputText.toLowerCase().indexOf("express 5")>-1) {
+	window.open(href="https://expressjs.com/en/5x/api.html#express",'express','resizable,height=300,width=500');
+}
 else if (inputText.toLowerCase().indexOf("node06")>-1) {
 	window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
 }
