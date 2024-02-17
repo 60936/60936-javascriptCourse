@@ -206,6 +206,9 @@ else if (inputText.toLowerCase().indexOf("node65")>-1) {
 else if (inputText.toLowerCase().indexOf("node66")>-1) {
 	window.open(href="https://youtu.be/ijSmgID_uCw",'api','resizable,height=300,width=500');
 }
+else if (inputText.toLowerCase().indexOf("node66a")>-1||inputText.toLowerCase().indexOf("route")>-1) {
+	window.open(href="./videos/route().png",'api','resizable,height=300,width=500');
+}
 else if (inputText.toLowerCase().indexOf("node67")>-1||inputText.toLowerCase().indexOf("controller")>-1) {
 	window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }

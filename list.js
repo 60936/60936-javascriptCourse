@@ -303,6 +303,9 @@ else if (elementId === 'node65') {
 else if (elementId === 'node66') {
   window.open(href="https://youtu.be/ijSmgID_uCw",'api','resizable,height=300,width=500');
 }
+else if (elementId === 'node66a') {
+  window.open(href="./videos/route().png",'api','resizable,height=300,width=500');
+}
 else if (elementId === 'node67') {
   window.open(href="https://youtu.be/gUDwKP1lOA0",'api','resizable,height=300,width=500');
 }
