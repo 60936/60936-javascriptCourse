@@ -20,8 +20,11 @@ else if(inputText.toLowerCase().indexOf("pull repo")>-1&&inputText.toLowerCase()
 
 else if(inputText.toLowerCase().indexOf("push repo")>-1&&inputText.toLowerCase().indexOf("github")>-1&&inputText.toLowerCase().indexOf("eg")>-1){document.getElementById("answer").innerHTML=`git push https://github.com/KeengWatanabe/repo.git `;}
 
-else if (inputText.toLowerCase().indexOf("express 5")>-1) {
+else if (inputText.toLowerCase().indexOf("express")>-1||inputText.toLowerCase().indexOf("express 5")>-1) {
 	window.open(href="https://expressjs.com/en/5x/api.html#express",'express','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("login")>-1&&inputText.toLowerCase().indexOf("page")>-1) {
+	window.open(href="https://drive.google.com/file/d/1-8fe1uQdR_10x4RtDy7350sIMNG3ONLQ/view?usp=drive_link",'login','resizable,height=300,width=500');
 }
 else if (inputText.toLowerCase().indexOf("node06")>-1) {
 	window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
@@ -254,7 +257,9 @@ else if (inputText.toLowerCase().indexOf("node78")>-1||inputText.toLowerCase().i
 else if (inputText.toLowerCase().indexOf("node79")>-1||inputText.toLowerCase().indexOf("error status")>-1&&inputText.toLowerCase().indexOf("refactor")>-1) {
 	window.open(href="https://drive.google.com/file/d/13GO9HE17UwebQSLK8J19cfrA8EYfr_xv/view?usp=drive_link",'node79','resizable,height=300,width=500');
 }
-
+else if (inputText.toLowerCase().indexOf("node80")>-1||inputText.toLowerCase().indexOf("login")>-1) {
+	window.open(href="https://www.youtube.com/watch?v=fUWkVxCv4IQ",'node79','resizable,height=300,width=500');
+}
 else if (inputText.toLowerCase().indexOf("install mysql")>-1||inputText.toLowerCase().indexOf("sql")>-1&&inputText.toLowerCase().indexOf("install")>-1) {
 	window.open(href="https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing",'','resizable,height=300,width=500');
 }

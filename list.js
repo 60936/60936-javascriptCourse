@@ -24,6 +24,9 @@ else if (elementId === 'mongodb setup') {
 else if (elementId === 'express 5') {
   window.open(href="https://expressjs.com/en/5x/api.html#express",'postman','resizable,height=300,width=500');
 }
+else if (elementId === 'login page') {
+  window.open(href="https://drive.google.com/file/d/1-8fe1uQdR_10x4RtDy7350sIMNG3ONLQ/view?usp=drive_link",'login','resizable,height=300,width=500');
+}
 
 
 
@@ -351,6 +354,9 @@ else if (elementId === 'node78') {
 }
 else if (elementId === 'node79') {
   window.open(href="https://drive.google.com/file/d/13GO9HE17UwebQSLK8J19cfrA8EYfr_xv/view?usp=drive_link",'','resizable,height=300,width=500');
+}
+else if (elementId === 'node80') {
+  window.open(href="https://www.youtube.com/watch?v=fUWkVxCv4IQ",'login','resizable,height=300,width=500');
 }
 else if (elementId === 'sql01') {
   window.open(href="https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing",'','resizable,height=300,width=500');
