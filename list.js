@@ -24,7 +24,7 @@ else if (elementId === 'mongodb setup') {
 else if (elementId === 'express 5') {
   window.open(href="https://expressjs.com/en/5x/api.html#express",'postman','resizable,height=300,width=500');
 }
-else if (elementId === 'login page') {
+else if (elementId === 'login') {
   window.open(href="https://drive.google.com/file/d/1-8fe1uQdR_10x4RtDy7350sIMNG3ONLQ/view?usp=drive_link",'login','resizable,height=300,width=500');
 }
 
