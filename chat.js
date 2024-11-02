@@ -26,6 +26,18 @@ else if (inputText.toLowerCase().indexOf("express")>-1||inputText.toLowerCase().
 else if (inputText.toLowerCase().indexOf("login")>-1&&inputText.toLowerCase().indexOf("page")>-1) {
 	window.open(href="https://drive.google.com/file/d/1-8fe1uQdR_10x4RtDy7350sIMNG3ONLQ/view?usp=drive_link",'login','resizable,height=300,width=500');
 }
+else if (inputText.toLowerCase().indexOf("node01")>-1) {
+	window.open(href="https://youtu.be/wRrZyX8Sf9M?si=nDtQmv4X1HuPwaRr",'readFile','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node02")>-1) {
+	window.open(href="https://youtu.be/CPVpLJepNkY?si=hM-5OITfFRpL8w0h",'readFile','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node03")>-1) {
+	window.open(href="https://youtu.be/BvBKXEliIWA?si=W-nGo-K087r93e5A",'readFile','resizable,height=300,width=500');
+}
+
+
+
 else if (inputText.toLowerCase().indexOf("node06")>-1) {
 	window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
 }
