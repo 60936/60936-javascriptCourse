@@ -113,12 +113,10 @@ else if (elementId === 'node01') {
 }
 else if (elementId === 'node02') {
 	window.open(href="https://youtu.be/CPVpLJepNkY?si=hM-5OITfFRpL8w0h",'readFile','resizable,height=300,width=500');
-  window.open(href="",'invoide module function','resizable,height=300,width=500');
 }
 else if (elementId === 'node03') {
 	window.open(href="https://youtu.be/BvBKXEliIWA?si=W-nGo-K087r93e5A",'readFile','resizable,height=300,width=500');
-  window.open(href="",'os module','resizable,height=300,width=500');
-}
+}  
 else if (elementId === 'node04') {
   window.open(href="https://youtu.be/XXavqd7-kWI?si=gWNPi53kGf87uNRN",'path module','resizable,height=300,width=500');
 }
