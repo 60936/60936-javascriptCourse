@@ -35,8 +35,12 @@ else if (inputText.toLowerCase().indexOf("node02")>-1) {
 else if (inputText.toLowerCase().indexOf("node03")>-1) {
 	window.open(href="https://youtu.be/BvBKXEliIWA?si=W-nGo-K087r93e5A",'readFile','resizable,height=300,width=500');
 }
-
-
+else if (inputText.toLowerCase().indexOf("node04")>-1) {
+	window.open(href="",'readFile','resizable,height=300,width=500');
+}
+else if (inputText.toLowerCase().indexOf("node05")>-1) {
+	window.open(href="",'readFile','resizable,height=300,width=500');
+}
 
 else if (inputText.toLowerCase().indexOf("node06")>-1) {
 	window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
