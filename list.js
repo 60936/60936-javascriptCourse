@@ -120,10 +120,10 @@ else if (elementId === 'node03') {
   window.open(href="",'os module','resizable,height=300,width=500');
 }
 else if (elementId === 'node04') {
-  window.open(href="",'path module','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/XXavqd7-kWI?si=gWNPi53kGf87uNRN",'path module','resizable,height=300,width=500');
 }
 else if (elementId === 'node05') {
-  window.open(href="",'file read write','resizable,height=300,width=500');
+  window.open(href="https://youtu.be/X7lBnTBCJBs?si=atmHI9kDe2VDAZ-J",'file read write','resizable,height=300,width=500');
 }
 else if (elementId === 'node06') {
   window.open(href="https://youtu.be/k7JALy_dmSA",'readFile','resizable,height=300,width=500');
